@@ -1,10 +1,6 @@
 ######################## default configuration ####################
 baseURL = "http://examplesite.org"
-<<<<<<< HEAD
-title = "Eben
-=======
-title = "Eben | hugo education template"
->>>>>>> d59b07023f9bfd2c2a4742df3288e157a2f88751
+title = "Eben Tuah
 theme = "educenter-hugo"
 # post pagination
 paginate = "6"
